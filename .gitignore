@@ -1,0 +1,6 @@
+Client/.vs
+Server/.vs
+Client/Debug
+Server/Debug
+Client/Client/cpuid.txt
+Server/Debug/cpuid.txt
